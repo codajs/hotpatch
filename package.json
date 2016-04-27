@@ -1,0 +1,11 @@
+{
+  "name": "hotpatch",
+  "version": "0.0.0",
+  "description": "",
+  "main": "lib/hotpatch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Casper Beyer <contact@caspervonb.com>",
+  "license": "MIT"
+}
